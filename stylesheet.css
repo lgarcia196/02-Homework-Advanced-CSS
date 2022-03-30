@@ -55,6 +55,7 @@
 }
 .subaboutme {
     display: flex;
+    margin: 20px;
 }
 .subhead1 {
     border-right: 2px solid blue;
@@ -62,6 +63,15 @@
     padding: 6px;
 }
 .paragraph {
+    margin: 6px;
+    padding: 6px;
+}
+.subwork {
+    display: flex;
+    margin: 20px;
+}
+.subhead2 {
+    border-right: 2px solid blue;
     margin: 6px;
     padding: 6px;
 }
