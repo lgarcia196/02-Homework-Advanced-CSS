@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    flex-wrap: wrap;
+}
+.header {
+    display: flex;
+    margin: 0 0 0 0;
+    background-color: rgb(63, 63, 65);
+}
+.portfolio {
+    margin: 4px 871px 4px 3px;
+    color: white;
+}
+.links {
+    margin: 4px 0 4px 0;
+    display: flex;
+    align-items: center;
+}
+.aboutme {
+    background-color: rgb(63, 63, 65);
+    margin: 4px;
+    border: rgb(63, 63, 65);
+    color: white;
+    text-decoration: underline;
+}
+.work {
+    background-color: rgb(63, 63, 65);
+    margin: 4px;
+    border: rgb(63, 63, 65);
+    color: white;
+    text-decoration: underline;
+}
+.contactme {
+    background-color: rgb(63, 63, 65);
+    margin: 4px;
+    border: rgb(63, 63, 65);
+    color: white;
+    text-decoration: underline;
+}
+.Resume {
+    background-color: rgb(63, 63, 65);
+    margin: 4px;
+    border: rgb(63, 63, 65);
+    color: white;
+    text-decoration: underline;
+}
+.heading {
+    display: flex;
+    margin: 0 0 0 0;
+    background-color: aquamarine;
+    justify-content: right;
+}
+.subhead {
+    margin: 15px;
+}
+.subaboutme {
+    display: flex;
+}
+.subhead1 {
+    border-right: 2px solid blue;
+    margin: 6px;
+    padding: 6px;
+}
+.paragraph {
+    margin: 6px;
+    padding: 6px;
+}
